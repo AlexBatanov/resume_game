@@ -6,7 +6,7 @@
  - Клонируйте репозиторий на свой компьютер:
 
 ```
-git clone <URL репозитория>
+git clone git@github.com:AlexBatanov/resume_game.git
 cd app
 ```
  - Установите необходимые зависимости:
